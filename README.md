@@ -1,2 +1,2 @@
-# bashsupport-pro
-The public repository of the BashSupport Pro plugin for issue tracking
+# BashSupport Pro
+This is the public issue tracker of the [BashSupport Pro](https://www.bashsupport.com/pro) plugin.
