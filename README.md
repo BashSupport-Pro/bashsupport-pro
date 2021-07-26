@@ -1,5 +1,5 @@
 # BashSupport Pro
-**This is the public issue tracker of the [BashSupport Pro](https://www.bashsupport.com/pro) plugin.**
+**This is the public issue tracker of the [BashSupport Pro](https://www.bashsupport.com/) plugin.**
 
 BashSupport Pro is **a plugin for advanced Bash and shell script development** – debugger, test runner, code completion, find usages, rename, ShellCheck, shfmt, and more. 
 
